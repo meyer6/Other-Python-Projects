@@ -8,4 +8,4 @@ Fractal generator - Uses an algorithm I learnt on youtube to produce a fractal p
 ![image](https://github.com/meyer6/Other-Python-Projects/assets/69467554/7e3b41c6-f76e-483a-87c9-54c82b1692d7)
 
 Pendulum - Models the motion of a pendulum, uses the angular velocity equations I learnt in physics
-![image](https://github.com/meyer6/Other-Python-Projects/assets/69467554/41f337b9-4b34-459d-ab95-c5b7c3aab3b4)
+![image](https://github.com/meyer6/Other-Python-Projects/assets/69467554/8fd31a91-2778-4f0d-883a-01183a69aa42)
